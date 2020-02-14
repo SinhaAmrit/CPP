@@ -4,7 +4,7 @@
 * GitHub : SinhaAmrit
 * Facebook : /codiizone
 * Instagram : @codiizone
-* wesite : https://codiizone.blogspot.com/
+* website : https://codiizone.blogspot.com/
 * C++ Program To Print Hello World
 */
 #include <iostream>
