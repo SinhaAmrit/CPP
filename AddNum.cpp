@@ -4,7 +4,7 @@
 * GitHub : SinhaAmrit
 * Facebook : /codiizone
 * Instagram : @codiizone
-* wesite : https://codiizone.blogspot.com/
+* website : https://codiizone.blogspot.com/
 * C++ Program To Accept Two Numbers And Display Their Sum
 */
 #include<iostream>
